@@ -1,4 +1,4 @@
-i# Project 1 Lane Lines
+# Project 1 Lane Lines
 
 [//]: # (Image References)
 [image1]: ./artifacts/ScreenShotKIAHero5.png "Lane Lines"
